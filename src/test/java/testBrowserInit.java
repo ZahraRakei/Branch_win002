@@ -21,5 +21,7 @@ public class testBrowserInit extends Base {
         WebElement merryDeals = driver.findElement(By.linkText("Very Merry Deals"));
         merryDeals.click();
         Assert.assertEquals(driver.getTitle(), "Amazon.com - Today's Deals");
+
+        // ogjldfjhwlhkjrtgfh
     }
 }
