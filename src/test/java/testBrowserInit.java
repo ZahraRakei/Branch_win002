@@ -14,6 +14,8 @@ public class testBrowserInit extends Base {
         Assert.assertEquals(driver.getTitle(), "Amazon.com. Spend less. Smile more.");
     }
 
+    //kjgukjeruhguergh
+
     @Test
     public void testDeals(){
         initBrowser("chrome");
